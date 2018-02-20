@@ -1,0 +1,8 @@
+M:\Verkko-ohjelmointi\Tenttitehtava2\bin\Debug\Tenttitehtava2.exe.config
+M:\Verkko-ohjelmointi\Tenttitehtava2\bin\Debug\Tenttitehtava2.exe
+M:\Verkko-ohjelmointi\Tenttitehtava2\bin\Debug\Tenttitehtava2.pdb
+M:\Verkko-ohjelmointi\Tenttitehtava2\bin\Debug\Newtonsoft.Json.dll
+M:\Verkko-ohjelmointi\Tenttitehtava2\bin\Debug\Newtonsoft.Json.xml
+M:\Verkko-ohjelmointi\Tenttitehtava2\obj\Debug\Tenttitehtava2.csprojResolveAssemblyReference.cache
+M:\Verkko-ohjelmointi\Tenttitehtava2\obj\Debug\Tenttitehtava2.exe
+M:\Verkko-ohjelmointi\Tenttitehtava2\obj\Debug\Tenttitehtava2.pdb
